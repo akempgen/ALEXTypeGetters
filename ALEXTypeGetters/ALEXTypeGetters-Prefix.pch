@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ALEXTypeGetters' target in the 'ALEXTypeGetters' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
